@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Kashish+Seth!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+ Kashish+Seth!;" />
 </h1>
 
-<h3 align="center">Hi there! I'm a dedicated Computer Engineering student at TIET with a knack for solving complex problems and building innovative solutions. My journey in technology has equipped me with a strong foundation in software, allowing me to tackle challenges from multiple perspectives.I am always open for new collaboration, projects and learnings</h3>
+<h3 align="center">Hi there! I'm a dedicated Computer Engineering student at TIET with a knack for solving complex problems and building innovative solutions. My journey in technology has equipped me with a strong foundation in software, allowing me to tackle challenges from multiple perspectives.I am always open for new collaboration, projects and learnings...</h3>
 
 <img align="right" width=400 src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsijalalyy&psig=AOvVaw2ENZBJC4s8reza2XXgcTwd&ust=1721404688862000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjktqr6sIcDFQAAAAAdAAAAABAE">
 
