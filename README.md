@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on **projects related to MERN.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KAsHiSHSET/my-portfolio](https://github.com/KAsHiSHSET/my-portfolio)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-mu-drab-89.vercel.app/]
 
 - 📝 I regularly write articles in my notebook
 
