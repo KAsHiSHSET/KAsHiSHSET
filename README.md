@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **kseth9852@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/home](https://drive.google.com/drive/home)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1y47WyyYN462UzU-wv38kvF5-_EHX-x37/view]
 
 - ⚡ Fun fact **I should have started coding from mom's womb**
 
