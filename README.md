@@ -22,22 +22,18 @@
 
 - 👯 I’m looking to collaborate on **projects related to MERN.**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-mu-drab-89.vercel.app/]
-
 - 📝 I regularly write articles in my notebook
 
 - 💬 Ask me about **anything related to MERN**
 
 - 📫 How to reach me **kseth9852@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y47WyyYN462UzU-wv38kvF5-_EHX-x37/view]
-
 - ⚡ Fun fact **I should have started coding from mom's womb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kashish-seth-6097182bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kashish-seth-6097182bb" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kashishseth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kashishseth/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
