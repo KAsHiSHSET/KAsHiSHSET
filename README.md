@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN** and **DSA**
 
 - 👯 I’m looking to collaborate on **projects related to MERN.**
 
