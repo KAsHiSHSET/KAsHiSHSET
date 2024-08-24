@@ -1,7 +1,7 @@
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+KASHISH+SETH!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+KASHISH+SETH!;&color=FF0000" />
 </h1>
+
 
 
 <h3 align="center">Hi there! I'm a dedicated Computer Engineering student at TIET with a knack for solving complex problems and building innovative solutions. My journey in technology has equipped me with a strong foundation in software, allowing me to tackle challenges from multiple perspectives.I am always open for new collaboration, projects and learnings...</h3>
