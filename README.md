@@ -9,9 +9,7 @@
 <img align="right" width=400 src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsijalalyy&psig=AOvVaw2ENZBJC4s8reza2XXgcTwd&ust=1721404688862000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjktqr6sIcDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashishset&label=Profile%20views&color=0e75b6&style=flat" alt="kashishset" /> </p>
-<p align="center">
-  <img width="500" src="https://camo.githubusercontent.com/d47c7d1ab92d7b3dae8edffb139b129f1f07af036d1ba18e94b10a112dc0e730/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632" />
-</p>
+
 <br>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashishset" alt="kashishset" /></a> </p>
