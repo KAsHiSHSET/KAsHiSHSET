@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
-  Hi there! I'm a dedicated Computer Engineering student at TIET with a knack for solving complex problems, building innovative solutions, and exploring machine learning. My journey in technology has equipped me with a strong foundation in software, allowing me to tackle challenges from multiple perspectives. I am always open to new collaborations, projects, and learning opportunities...
+  Hi there! I'm a dedicated Computer Engineering student with a knack for solving complex problems, building innovative solutions, and currently exploring AI/ML. My journey in technology has equipped me with a strong foundation in software, allowing me to tackle challenges from multiple perspectives. I am always open to new collaborations, projects, and learning opportunities...
 </h3>
 
 
@@ -17,7 +17,7 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashishset" alt="kashishset" /></a> </p>
 
-- 🔭 I’m currently working on ** Machine learning and Backend Development**
+- 🔭 I’m currently working on **Machine learning and Backend Development**
 
 - 🌱 I’m currently learning **ML** and **DSA**
 
