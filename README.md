@@ -5,7 +5,16 @@
 
 
 <h3 align="center">
-  Hi there! I'm a dedicated Computer Engineering student with a knack for solving complex problems, building innovative solutions, and currently exploring AI/ML. My journey in technology has equipped me with a strong foundation in software, allowing me to tackle challenges from multiple perspectives. I am always open to new collaborations, projects, and learning opportunities...
+I'm a dedicated Computer Engineering undergraduate at Thapar Institute of Engineering and Technology, with strong interests in AI/ML , Natural Language Processing(NLP) , and Full-Stack Development.
+
+💼 Currently, I'm working as a Developer Intern at MastersIndia IT Private Limited, contributing to projects across ML, NLP, and full-stack domains.
+
+I enjoy building intelligent, real-world systems that combine smart algorithms with practical, impactful applications.
+
+📬 I'm always open to collaborations, research opportunities, and exciting challenges in the fields of AI and software engineering.
+
+
+
 </h3>
 
 
@@ -17,20 +26,20 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashishset" alt="kashishset" /></a> </p>
 
-- 🔭 I’m currently working on **Machine learning and Backend Development**
+- 🔭 I’m currently working on **NLP , Backend Development**
 
-- 🌱 I’m currently learning **ML** and **DSA**
+- 🌱 I’m currently learning **NLP/AI** and **DSA**
 
-- 👯 I’m looking to collaborate on **projects related to MERN and ML.**
+- 👯 I’m looking to collaborate on **projects related to MERN , ML and NLP.**
 
-- 📝 I regularly write articles in my notebook
+- 📝 I regularly write articles in my notepad.
 
 - 💬 Ask me about **anything related to Computer Sciences**
 
 - 📫 How to reach me **kseth9852@gmail.com**
 
-- ⚡ Fun fact **I should have started coding from mom's womb**
-
+- ⚡ Fun fact **  Math is easy — especially when 1 + 1 equals 11 **
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kashish-seth-6097182bb" target="blank">
