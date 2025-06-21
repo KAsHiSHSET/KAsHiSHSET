@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">
+<h3 align="left">
 I'm a dedicated Computer Engineering undergraduate at Thapar Institute of Engineering and Technology, with strong interests in AI/ML , Natural Language Processing(NLP) , and Full-Stack Development.
 
 💼 Currently, I'm working as a Developer Intern at MastersIndia IT Private Limited, contributing to projects across ML, NLP, and full-stack domains.
