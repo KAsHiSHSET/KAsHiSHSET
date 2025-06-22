@@ -80,7 +80,7 @@ A medical AI app that analyzes EEG signals using a trained **LSTM model** to det
 
 - 📫 Reach out to me: **kseth9852@gmail.com**
 
-- ⚡ Fun Fact: **Math is easy—especially when 1 + 1 = 11 😉**
+- ⚡ Fun Fact: **Math is easy—especially when "1" + "1" = "11" 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
