@@ -6,51 +6,59 @@
 
 <h3 align="left">
 
-I'm a dedicated Computer Engineering undergraduate at **Thapar Institute of Engineering and Technology**, with strong interests in **AI/ML**, **Natural Language Processing (NLP)**, and **Full-Stack Development**.
+I'm a dedicated Computer Engineering undergraduate at <b>Thapar Institute of Engineering and Technology</b>, with strong interests in <b>AI/ML</b>, <b>Natural Language Processing (NLP)</b>, and <b>Full-Stack Development</b>.
 
-💼 Currently, I'm working as a **Developer Intern** at **MastersIndia IT Private Limited**, contributing to projects across ML, NLP, and full-stack domains.
+💼 Currently working as a <b>Developer Intern</b> at <b>MastersIndia IT Private Limited</b>, contributing to impactful projects in ML, NLP, and full-stack domains.
 
-🚀 I enjoy building intelligent, real-world systems that combine smart algorithms with practical, impactful applications.
+🚀 I enjoy building intelligent, real-world systems that combine smart algorithms with practical, user-focused applications.
 
-📬 I'm always open to collaborations, research opportunities, and exciting challenges in the fields of AI and software engineering.
+📬 Always open to collaborations, research opportunities, and exciting challenges in the fields of AI and software engineering.
 
 </h3>
 
 ---
 
-## 📌 **Projects**
+## 📌 Projects
 
 ---
 
-### 🧠 [**Quiz-N-Learn**](https://github.com/KAsHiSHSET/QUIZ_N_LEARN_project)
-An intelligent quiz generator web app built with Streamlit that takes any PDF document (lecture notes, medical reports, legal docs) and automatically generates MCQs with 4 options and explanations. Powered by Groq’s LLaMA3-70B model and LangChain, it allows users to test themselves, get evaluated instantly, and even export the quiz as a DOCX file.
+### 🧠 [Quiz-N-Learn](https://github.com/KAsHiSHSET/QUIZ_N_LEARN_project)
 
-  🔹 **Tech Stack:** Python, Streamlit, LangChain, Groq, PyPDF2, python-docx  
-  🔹 **Key Features:** PDF upload, dynamic MCQ generation, real-time evaluation, DOCX export
+An AI-powered quiz generator web app that takes any PDF (e.g., lecture notes, medical reports, legal docs) and generates MCQs with options and explanations. Built using **Groq's LLaMA3-70B model**, LangChain, and Streamlit.
 
----
-
-### 🌐 [**WanderLust**](https://wanderlust-1upa.onrender.com/signup)
-A sleek and user-friendly travel planning web app where users can sign up, explore destinations, manage itineraries, and connect with fellow travelers. Built with RESTful APIs, it provides authentication, destination exploration, and a responsive design.
-
- 🔹 **Tech Stack:** MongoDB, Express.js, Node.js, Tailwind CSS, Bootstrap, RESTful APIs, Middlewares  
- 🔹 **Key Features:** User login/signup, itinerary dashboard, destination cards, full responsiveness
+🔹 **Tech Stack:** Python, Streamlit, LangChain, Groq, PyPDF2, python-docx  
+🔹 **Key Features:** PDF upload, dynamic MCQ generation, real-time evaluation, DOCX export  
+🔗 [Code](https://github.com/KAsHiSHSET/QUIZ_N_LEARN_project)
 
 ---
 
-### 🧮 [**AI Calculator**](https://github.com/KAsHiSHSET/AI_Calulator)
-A gesture-based AI calculator that allows users to draw math problems on the screen using OpenCV and solve them using Google’s Gemini AI. It provides a natural input method (like handwriting) and returns detailed step-by-step explanations for each solution.
+### 🌐 [WanderLust](https://wanderlust-1upa.onrender.com/signup)
 
- 🔹 **Tech Stack:** Python, OpenCV, Gemini API, Flask, Streamlit  
- 🔹 **Key Features:** Handwritten input, AI-powered stepwise solution explanation
+A travel planning web app where users can sign up, explore destinations, build itineraries, and connect with fellow travelers. Features authentication, REST APIs, and a modern UI.
+
+🔹 **Tech Stack:** MongoDB, Express.js, Node.js, Tailwind CSS, Bootstrap, RESTful APIs  
+🔹 **Key Features:** Signup/login, itinerary dashboard, responsive destination cards  
+🔗 [Code](https://github.com/KAsHiSHSET/Wanderlust_website)
 
 ---
 
-### 🧬 [**EEG Seizure Detection App**](https://seizurelstm-kashishsethpersonalapp.streamlit.app/)
-A medical AI app that takes EEG signals and uses a trained LSTM deep learning model to detect the presence of seizures. It provides real-time classification and lets users download doctor-ready PDF reports with all relevant info, including seizure count and confidence score.
+### 🧮 [AI Calculator](https://github.com/KAsHiSHSET/AI_Calulator)
 
- 🔹 **Tech Stack:** Python, Streamlit, TensorFlow/Keras (LSTM), ReportLab  
- 🔹 **Key Features:** EEG file upload, seizure prediction, patient report generation as PDF
+A gesture-based AI calculator that lets users draw math problems using OpenCV and solve them with Google’s Gemini AI. It returns detailed step-by-step solutions.
+
+🔹 **Tech Stack:** Python, OpenCV, Gemini API, Flask, Streamlit  
+🔹 **Key Features:** Handwritten input via webcam, AI-powered stepwise solution  
+🔗 [Code](https://github.com/KAsHiSHSET/AI_Calulator)
+
+---
+
+### 🧬 [EEG Seizure Detection App](https://seizurelstm-kashishsethpersonalapp.streamlit.app/)
+
+A medical AI app that analyzes EEG signals using a trained **LSTM model** to detect seizures in real-time. Generates PDF reports with seizure count and prediction confidence.
+
+🔹 **Tech Stack:** Python, Streamlit, TensorFlow/Keras (LSTM), ReportLab  
+🔹 **Key Features:** EEG file upload, seizure prediction, doctor-ready PDF report  
+🔗 [Code](https://github.com/KAsHiSHSET/EEG_seizure_lstm)
 
 <img align="right" width=400 src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsijalalyy&psig=AOvVaw2ENZBJC4s8reza2XXgcTwd&ust=1721404688862000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjktqr6sIcDFQAAAAAdAAAAABAE">
 
@@ -60,20 +68,20 @@ A medical AI app that takes EEG signals and uses a trained LSTM deep learning mo
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashishset" alt="kashishset" /></a> </p>
 
-- 🔭 I’m currently working on **NLP , Backend Development**
-
-- 🌱 I’m currently learning **NLP/AI** and **DSA**
-
-- 👯 I’m looking to collaborate on **projects related to MERN , ML and NLP.**
-
-- 📝 I regularly write articles in my notepad.
-
-- 💬 Ask me about **anything related to Computer Sciences**
-
-- 📫 How to reach me **kseth9852@gmail.com**
-
-- ⚡ Fun fact **  Math is easy — especially when 1 + 1 equals 11 **
+- 🔭 Currently working on cutting-edge projects in **Natural Language Processing (NLP)** and **Backend Development**.
   
+- 🌱 Actively sharpening my skills in **Artificial Intelligence, NLP**, and **Data Structures & Algorithms**.
+
+- 👯 Looking to collaborate on impactful and innovative projects in **MERN stack**, **Machine Learning**, and **NLP applications**.
+
+- 📝 Passionate about simplifying complex tech concepts—I regularly jot down learnings and ideas in my personal knowledge base.
+
+- 💬 Always up for a good tech conversation! Feel free to ask me about **anything related to Computer Science, AI/ML, or Web Development**.
+
+- 📫 Reach out to me: **kseth9852@gmail.com**
+
+- ⚡ Fun Fact: **Math is easy—especially when 1 + 1 = 11 😉**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kashish-seth-6097182bb" target="blank">
