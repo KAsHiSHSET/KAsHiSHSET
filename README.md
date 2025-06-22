@@ -5,42 +5,52 @@
 
 
 <h3 align="left">
-I'm a dedicated Computer Engineering undergraduate at Thapar Institute of Engineering and Technology, with strong interests in AI/ML, Natural Language Processing (NLP), and Full-Stack Development.
 
-💼 Currently, I'm working as a Developer Intern at MastersIndia IT Private Limited, contributing to projects across ML, NLP, and full-stack domains.
+I'm a dedicated Computer Engineering undergraduate at **Thapar Institute of Engineering and Technology**, with strong interests in **AI/ML**, **Natural Language Processing (NLP)**, and **Full-Stack Development**.
+
+💼 Currently, I'm working as a **Developer Intern** at **MastersIndia IT Private Limited**, contributing to projects across ML, NLP, and full-stack domains.
 
 🚀 I enjoy building intelligent, real-world systems that combine smart algorithms with practical, impactful applications.
 
 📬 I'm always open to collaborations, research opportunities, and exciting challenges in the fields of AI and software engineering.
 
+</h3>
+
 ---
 
-### 📌 Featured Projects
+## 📌 **Projects**
 
-- 🧠 [**Quiz-N-Learn**](https://github.com/KAsHiSHSET/QUIZ_N_LEARN_project):  
-An intelligent quiz generator web app built with Streamlit that takes any PDF document (lecture notes, medical reports, legal docs) and automatically generates MCQs with 4 options and explanation. Powered by Groq’s LLaMA3-70B model and LangChain, it allows users to test themselves, get evaluated instantly, and even export the quiz as a DOCX file.
-🔹 **Tech Stack:** Python, Streamlit, LangChain, Groq, PyPDF2, python-docx  
-🔹 **Key Features:** PDF upload, dynamic MCQ generation, real-time evaluation, DOCX export  
+---
 
-🌐 [**WanderLust**](https://wanderlust-1upa.onrender.com/signup):  
-A sleek and user-friendly travel planning web app where users can sign up, explore destinations, manage itineraries, and connect with fellow travelers. Built with RESTFUL APIs ,it provides authentication, destination exploration, and a responsive design.
- 🔹 **Tech Stack:** MongoDB, Express.js , Node.js , Tailwind CSS , Bootstrap , Restful apis, Middlewares 
- 🔹 **Key Features:** User login/signup, itinerary dashboard, destination cards, full responsiveness  
+### 🧠 [**Quiz-N-Learn**](https://github.com/KAsHiSHSET/QUIZ_N_LEARN_project)
+An intelligent quiz generator web app built with Streamlit that takes any PDF document (lecture notes, medical reports, legal docs) and automatically generates MCQs with 4 options and explanations. Powered by Groq’s LLaMA3-70B model and LangChain, it allows users to test themselves, get evaluated instantly, and even export the quiz as a DOCX file.
 
-  🧮 [**AI Calculator**](https://github.com/KAsHiSHSET/AI_Calulator)
+- 🔹 **Tech Stack:** Python, Streamlit, LangChain, Groq, PyPDF2, python-docx  
+- 🔹 **Key Features:** PDF upload, dynamic MCQ generation, real-time evaluation, DOCX export
+
+---
+
+### 🌐 [**WanderLust**](https://wanderlust-1upa.onrender.com/signup)
+A sleek and user-friendly travel planning web app where users can sign up, explore destinations, manage itineraries, and connect with fellow travelers. Built with RESTful APIs, it provides authentication, destination exploration, and a responsive design.
+
+- 🔹 **Tech Stack:** MongoDB, Express.js, Node.js, Tailwind CSS, Bootstrap, RESTful APIs, Middlewares  
+- 🔹 **Key Features:** User login/signup, itinerary dashboard, destination cards, full responsiveness
+
+---
+
+### 🧮 [**AI Calculator**](https://github.com/KAsHiSHSET/AI_Calulator)
 A gesture-based AI calculator that allows users to draw math problems on the screen using OpenCV and solve them using Google’s Gemini AI. It provides a natural input method (like handwriting) and returns detailed step-by-step explanations for each solution.
 
-🔹 Tech Stack: Python, OpenCV, Gemini API, Flask, Streamlit
-🔹 Key Features: Handwritten input, AI-powered stepwise solution explanation
+- 🔹 **Tech Stack:** Python, OpenCV, Gemini API, Flask, Streamlit  
+- 🔹 **Key Features:** Handwritten input, AI-powered stepwise solution explanation
 
-🧬 [**EEG Seizure Detection App**](https://seizurelstm-kashishsethpersonalapp.streamlit.app/)
+---
 
+### 🧬 [**EEG Seizure Detection App**](https://seizurelstm-kashishsethpersonalapp.streamlit.app/)
 A medical AI app that takes EEG signals and uses a trained LSTM deep learning model to detect the presence of seizures. It provides real-time classification and lets users download doctor-ready PDF reports with all relevant info, including seizure count and confidence score.
 
-🔹 Tech Stack: Python, Streamlit, TensorFlow/Keras (LSTM), ReportLab
-🔹 Key Features: EEG file upload, seizure prediction, patient report 
-
-
+- 🔹 **Tech Stack:** Python, Streamlit, TensorFlow/Keras (LSTM), ReportLab  
+- 🔹 **Key Features:** EEG file upload, seizure prediction, patient report generation as PDF
 
 <img align="right" width=400 src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsijalalyy&psig=AOvVaw2ENZBJC4s8reza2XXgcTwd&ust=1721404688862000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjktqr6sIcDFQAAAAAdAAAAABAE">
 
