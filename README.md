@@ -5,17 +5,27 @@
 
 
 <h3 align="left">
-I'm a dedicated Computer Engineering undergraduate at Thapar Institute of Engineering and Technology, with strong interests in AI/ML , Natural Language Processing(NLP) , and Full-Stack Development.
+I'm a dedicated Computer Engineering undergraduate at Thapar Institute of Engineering and Technology, with strong interests in AI/ML, Natural Language Processing (NLP), and Full-Stack Development.
 
 💼 Currently, I'm working as a Developer Intern at MastersIndia IT Private Limited, contributing to projects across ML, NLP, and full-stack domains.
 
-I enjoy building intelligent, real-world systems that combine smart algorithms with practical, impactful applications.
+🚀 I enjoy building intelligent, real-world systems that combine smart algorithms with practical, impactful applications.
 
 📬 I'm always open to collaborations, research opportunities, and exciting challenges in the fields of AI and software engineering.
 
+---
 
+### 📌 Featured Projects
 
+- 🧠 <strong>Quiz-N-Learn (LangChain + Groq)</strong>: PDF-based MCQ generator app that creates quizzes from any uploaded document and explains answers. [<a href="https://github.com/kashishset/quiz-n-learn" target="_blank">GitHub ↗</a>]
+
+- 🧬 <strong>Seizure Detection from EEG</strong>: A Streamlit app using deep learning to classify EEG data and generate doctor-ready reports. [<a href="https://github.com/kashishset/eeg-seizure-detector" target="_blank">GitHub ↗</a>]
+
+- 🗣️ <strong>SignSpeak</strong>: A real-time Sign Language to Speech web app using MediaPipe and Flask to break communication barriers. [<a href="https://github.com/kashishset/sign-language-speech" target="_blank">GitHub ↗</a>]
+
+- ⚖️ <strong>Legal Document Simplifier</strong>: BERT-powered NLP tool to simplify complex legal PDF documents for layman understanding. [<a href="https://github.com/kashishset/legal-simplifier-nlp" target="_blank">GitHub ↗</a>]
 </h3>
+
 
 
 <img align="right" width=400 src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsijalalyy&psig=AOvVaw2ENZBJC4s8reza2XXgcTwd&ust=1721404688862000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjktqr6sIcDFQAAAAAdAAAAABAE">
