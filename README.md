@@ -84,7 +84,7 @@ A medical AI app that analyzes EEG signals using a trained **LSTM model** to det
 
 - 📫 Reach out to me: **kseth9852@gmail.com**
   
-- 🌍 **Portfolio**: **[Kashish's Website](https://kashish-seth-p5zqq2a.gamma.site)**
+- 🌍 **Portfolio**: **[Kashish's Website](https://kashish-seth-p5zqq2a.gamma.site/)**
 
 - ⚡ Fun Fact: **Math is easy—especially when "1" + "1" = "11" 😉**
 
