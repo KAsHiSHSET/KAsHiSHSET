@@ -42,8 +42,6 @@ A travel planning web app where users can sign up, explore destinations, build i
 🔹 **Tech Stack:** MongoDB, Express.js, Node.js, Tailwind CSS, Bootstrap, RESTful APIs  
 🔹 **Key Features:** Signup/login, itinerary dashboard, responsive destination cards  
 🔗 [**Code**](https://github.com/KAsHiSHSET/Wanderlust_website)
-
-
 🔗 [**Live demo**](https://github.com/KAsHiSHSET/Wanderlust_website)
 
 ---
@@ -62,10 +60,11 @@ A gesture-based AI calculator that lets users draw math problems using OpenCV an
 A smart web app that automatically generates conflict-free weekly timetables based on selected subjects and teacher constraints. Built to simplify academic scheduling for students and institutions.
 
 🔹 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js
+
 🔹 **Key Features:** Dynamic subject & teacher selection, auto-generated schedule, live preview, responsive design
+
+
 🔗 [**Code**](https://github.com/KAsHiSHSET/scheDulify-CPU-scheduling-simulator)
-
-
 🔗 [**Live demo**](https://sche-dulify-cpu-scheduling-simulato.vercel.app/)
 
 ---
@@ -77,7 +76,6 @@ A medical AI app that analyzes EEG signals using a trained **LSTM model** to det
 🔹 **Tech Stack:** Python, Streamlit, TensorFlow/Keras (LSTM), ReportLab  
 🔹 **Key Features:** EEG file upload, seizure prediction, doctor-ready PDF report  
 🔗 [Code](https://github.com/KAsHiSHSET/EEG_seizure_lstm)
-
 🔗 [**Live demo**](https://seizurelstm-kashishsethpersonalapp.streamlit.app/)
 
 ---
