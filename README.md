@@ -31,7 +31,7 @@ An AI-powered quiz generator web app that takes any PDF (e.g., lecture notes, me
 
 🔹 **Tech Stack:** Python, Streamlit, LangChain, Groq, PyPDF2, python-docx  
 🔹 **Key Features:** PDF upload, dynamic MCQ generation, real-time evaluation, DOCX export  
-🔗 [Code](https://github.com/KAsHiSHSET/QUIZ_N_LEARN_project)
+🔗 [**Code**](https://github.com/KAsHiSHSET/QUIZ_N_LEARN_project)
 
 ---
 
@@ -41,7 +41,10 @@ A travel planning web app where users can sign up, explore destinations, build i
 
 🔹 **Tech Stack:** MongoDB, Express.js, Node.js, Tailwind CSS, Bootstrap, RESTful APIs  
 🔹 **Key Features:** Signup/login, itinerary dashboard, responsive destination cards  
-🔗 [Code](https://github.com/KAsHiSHSET/Wanderlust_website)
+🔗 [**Code**](https://github.com/KAsHiSHSET/Wanderlust_website)
+
+
+🔗 [**Live demo**](https://github.com/KAsHiSHSET/Wanderlust_website)
 
 ---
 
@@ -51,7 +54,19 @@ A gesture-based AI calculator that lets users draw math problems using OpenCV an
 
 🔹 **Tech Stack:** Python, OpenCV, Gemini API, Flask, Streamlit  
 🔹 **Key Features:** Handwritten input via webcam, AI-powered stepwise solution  
-🔗 [Code](https://github.com/KAsHiSHSET/AI_Calulator)
+🔗 [**Code**](https://github.com/KAsHiSHSET/AI_Calulator)
+
+---
+
+### 🗂️[scheDulify](https://github.com/KAsHiSHSET/scheDulify-CPU-scheduling-simulator)
+A smart web app that automatically generates conflict-free weekly timetables based on selected subjects and teacher constraints. Built to simplify academic scheduling for students and institutions.
+
+🔹 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js
+🔹 **Key Features:** Dynamic subject & teacher selection, auto-generated schedule, live preview, responsive design
+🔗 [**Code**](https://github.com/KAsHiSHSET/scheDulify-CPU-scheduling-simulator)
+
+
+🔗 [**Live demo**](https://sche-dulify-cpu-scheduling-simulato.vercel.app/)
 
 ---
 
@@ -63,6 +78,10 @@ A medical AI app that analyzes EEG signals using a trained **LSTM model** to det
 🔹 **Key Features:** EEG file upload, seizure prediction, doctor-ready PDF report  
 🔗 [Code](https://github.com/KAsHiSHSET/EEG_seizure_lstm)
 
+🔗 [**Live demo**](https://seizurelstm-kashishsethpersonalapp.streamlit.app/)
+
+---
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kashishset&label=Profile%20views&color=0e75b6&style=flat" alt="kashishset" />
 </p>
@@ -72,7 +91,6 @@ A medical AI app that analyzes EEG signals using a trained **LSTM model** to det
     <img src="https://github-profile-trophy.vercel.app/?username=kashishset&theme=radical" alt="Trophies" />
   </a>
 </p>
-- 🔭 Currently working on cutting-edge projects in **Natural Language Processing (NLP)** and **Backend Development**.
   
 - 🌱 Actively sharpening my skills in **Artificial Intelligence, NLP**, and **Data Structures & Algorithms**.
 
