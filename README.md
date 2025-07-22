@@ -30,8 +30,13 @@ I'm a dedicated Computer Engineering undergraduate at <b>Thapar Institute of Eng
 An AI-powered quiz generator web app that takes any PDF (e.g., lecture notes, medical reports, legal docs) and generates MCQs with options and explanations. Built using **Groq's LLaMA3-70B model**, LangChain, and Streamlit.
 
 🔹 **Tech Stack:** Python, Streamlit, LangChain, Groq, PyPDF2, python-docx  
+
+
 🔹 **Key Features:** PDF upload, dynamic MCQ generation, real-time evaluation, DOCX export  
+
+
 🔗 [**Code**](https://github.com/KAsHiSHSET/QUIZ_N_LEARN_project)
+🔗 [**Live demo**](https://quiznlearnproject-kashishwebsite.streamlit.app/)
 
 ---
 
@@ -40,7 +45,11 @@ An AI-powered quiz generator web app that takes any PDF (e.g., lecture notes, me
 A travel planning web app where users can sign up, explore destinations, build itineraries, and connect with fellow travelers. Features authentication, REST APIs, and a modern UI.
 
 🔹 **Tech Stack:** MongoDB, Express.js, Node.js, Tailwind CSS, Bootstrap, RESTful APIs  
+
+
 🔹 **Key Features:** Signup/login, itinerary dashboard, responsive destination cards  
+
+
 🔗 [**Code**](https://github.com/KAsHiSHSET/Wanderlust_website)
 🔗 [**Live demo**](https://github.com/KAsHiSHSET/Wanderlust_website)
 
@@ -52,6 +61,8 @@ A gesture-based AI calculator that lets users draw math problems using OpenCV an
 
 🔹 **Tech Stack:** Python, OpenCV, Gemini API, Flask, Streamlit  
 🔹 **Key Features:** Handwritten input via webcam, AI-powered stepwise solution  
+
+
 🔗 [**Code**](https://github.com/KAsHiSHSET/AI_Calulator)
 
 ---
@@ -60,6 +71,7 @@ A gesture-based AI calculator that lets users draw math problems using OpenCV an
 A smart web app that automatically generates conflict-free weekly timetables based on selected subjects and teacher constraints. Built to simplify academic scheduling for students and institutions.
 
 🔹 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js
+
 
 🔹 **Key Features:** Dynamic subject & teacher selection, auto-generated schedule, live preview, responsive design
 
@@ -73,8 +85,12 @@ A smart web app that automatically generates conflict-free weekly timetables bas
 
 A medical AI app that analyzes EEG signals using a trained **LSTM model** to detect seizures in real-time. Generates PDF reports with seizure count and prediction confidence.
 
-🔹 **Tech Stack:** Python, Streamlit, TensorFlow/Keras (LSTM), ReportLab  
+🔹 **Tech Stack:** Python, Streamlit, TensorFlow/Keras (LSTM), ReportLab 
+
+
 🔹 **Key Features:** EEG file upload, seizure prediction, doctor-ready PDF report  
+
+
 🔗 [Code](https://github.com/KAsHiSHSET/EEG_seizure_lstm)
 🔗 [**Live demo**](https://seizurelstm-kashishsethpersonalapp.streamlit.app/)
 
