@@ -60,6 +60,8 @@ A travel planning web app where users can sign up, explore destinations, build i
 A gesture-based AI calculator that lets users draw math problems using OpenCV and solve them with Google’s Gemini AI. It returns detailed step-by-step solutions.
 
 🔹 **Tech Stack:** Python, OpenCV, Gemini API, Flask, Streamlit  
+
+
 🔹 **Key Features:** Handwritten input via webcam, AI-powered stepwise solution  
 
 
