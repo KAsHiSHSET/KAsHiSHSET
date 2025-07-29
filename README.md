@@ -8,7 +8,7 @@
 
 I'm a dedicated Computer Engineering undergraduate at <b>Thapar Institute of Engineering and Technology</b>, with strong interests in <b>AI/ML</b>, <b>Natural Language Processing (NLP)</b>, and <b>Full-Stack Development</b>.
 
-💼 Currently working as a <b>Developer Intern</b> at <b>MastersIndia IT Private Limited</b>, contributing to impactful projects in ML, NLP, and full-stack domains.
+💼 Former <b>Developer Intern</b> at <b>MastersIndia IT Private Limited</b>, contributed to impactful projects in  full-stack domains , WEB APIs.
 
 🚀 I enjoy building intelligent, real-world systems that combine smart algorithms with practical, user-focused applications.
 
