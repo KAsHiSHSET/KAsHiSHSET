@@ -120,7 +120,7 @@ A medical AI app that analyzes EEG signals using a trained **LSTM model** to det
   
 - 🌍 **Portfolio**: **[Kashish's Website](https://kashish-seth-p5zqq2a.gamma.site/)**
 
-- ⚡ Fun Fact: **Math is easy—especially when "1" + "1" = "11" 😉**
+- ⚡ Fun Fact: **Math is easy, especially when "1" + "1" = "11" 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
