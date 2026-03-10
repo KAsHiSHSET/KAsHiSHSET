@@ -135,10 +135,23 @@ A medical AI app that analyzes EEG signals using a trained **LSTM model** to det
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://www.kaggle.com/kashishsethhhh">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" height="40"/>
+
+
+<a href="https://www.kaggle.com/kashishsethhhh" target="_blank">
+<img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="40"/>
 </a>
 
+
+
+<a href="https://www.instagram.com/kashishhhh2204?igsh=aDM1bXJjd2czcG40&utm_source=qr" target="_blank">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" height="40"/>
+</a>
+
+
+
+<a href="https://leetcode.com/u/kashishseth/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
+</a>
 </p>
 
 
