@@ -8,7 +8,7 @@
 
 I'm a dedicated Computer Engineering undergraduate at <b>Thapar Institute of Engineering and Technology</b>, with strong interests in <b>AI/ML</b>, <b>Natural Language Processing (NLP)</b>, and <b>Full-Stack Development</b>.
 
-💼 Former <b>Developer Intern</b> at <b>MastersIndia IT Private Limited</b>, contributed to impactful projects in  full-stack domains , WEB APIs.
+💼 Currently working as SDE intern <b>INSTAMART, Swiggy</b>.Former <b>Developer Intern</b> at <b>MastersIndia IT Private Limited</b>, contributed to impactful projects in  full-stack domains , WEB APIs.
 
 🚀 I enjoy building intelligent, real-world systems that combine smart algorithms with practical, user-focused applications.
 
