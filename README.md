@@ -56,7 +56,21 @@ A travel planning web app where users can sign up, explore destinations, build i
 
 ---
 
+### 🤖 [Agentic AI Chatbot](https://github.com/KAsHiSHSET/agentic-chatbot)
+
+An AI-powered chatbot built using **LangGraph**, **LangChain**, **Groq LLMs**, and **Streamlit**. The project demonstrates graph-based orchestration of LLM workflows, enabling stateful conversational AI with support for multiple language models through an interactive web interface.
+
+🔹 **Tech Stack:** Python, Streamlit, LangGraph, LangChain, Groq API
+
+🔹 **Key Features:** Multi-model support, LangGraph workflow orchestration, stateful conversational flow, interactive chatbot interface, dynamic model selection, modular architecture for future RAG and tool integrations
+
+🔗 **Code:** https://github.com/KAsHiSHSET/agentic-chatbot
+
+🔗 **Live Demo:** https://agentic-chatbot-kashish-project.streamlit.app/
+
+---
 ### 🧮 [AI Calculator](https://github.com/KAsHiSHSET/AI_Calulator)
+
 
 A gesture-based AI calculator that lets users draw math problems using OpenCV and solve them with Google’s Gemini AI. It returns detailed step-by-step solutions.
 
