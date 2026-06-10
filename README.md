@@ -64,9 +64,8 @@ An AI-powered chatbot built using **LangGraph**, **LangChain**, **Groq LLMs**, a
 
 🔹 **Key Features:** Multi-model support, LangGraph workflow orchestration, stateful conversational flow, interactive chatbot interface, dynamic model selection, modular architecture for future RAG and tool integrations
 
-🔗 **Code:** https://github.com/KAsHiSHSET/agentic-chatbot
-
-🔗 **Live Demo:** https://agentic-chatbot-kashish-project.streamlit.app/
+🔗 [**Code**](https://github.com/KAsHiSHSET/agentic-chatbot)
+🔗 [**Live Demo**](https://agentic-chatbot-kashish-project.streamlit.app/)
 
 ---
 ### 🧮 [AI Calculator](https://github.com/KAsHiSHSET/AI_Calulator)
