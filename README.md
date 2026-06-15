@@ -26,6 +26,21 @@ I'm a dedicated Computer Engineering undergraduate at <b>Thapar Institute of Eng
 
 ---
 
+### 🔗 [Shortly - Distributed URL Shortener](https://github.com/KAsHiSHSET/Shortly---Distributed-URL-Shortener)
+
+A scalable URL shortening platform built using Go and microservices architecture. Features a dedicated Key Generation Service (KGS) communicating via gRPC, Redis-backed caching, rate limiting, and analytics tracking for high-performance URL management.
+
+🔹 **Tech Stack:** Go, Gin, gRPC, PostgreSQL, MongoDB, Redis, Docker, JWT
+
+🔹 **Key Features:** URL shortening, pre-generated key pool (KGS), JWT authentication, Redis caching, rate limiting, click analytics, asynchronous logging, URL redirection
+
+🔹 **Concepts Demonstrated:** Microservices, Distributed Systems, gRPC Communication, Cache-Aside Pattern, Queue-Based Key Management
+
+🔗 [**Code:**](https://github.com/KAsHiSHSET/Shortly---Distributed-URL-Shortener)
+
+
+---
+
 ### 🧠 [Quiz-N-Learn](https://github.com/KAsHiSHSET/QUIZ_N_LEARN_project)
 
 An AI-powered quiz generator web app that takes any PDF (e.g., lecture notes, medical reports, legal docs) and generates MCQs with options and explanations. Built using **Groq's LLaMA3-70B model**, LangChain, and Streamlit.
