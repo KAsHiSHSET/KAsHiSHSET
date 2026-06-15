@@ -26,7 +26,7 @@ I'm a dedicated Computer Engineering undergraduate at <b>Thapar Institute of Eng
 
 ---
 
-### 🔗 [Shortly - Distributed URL Shortener](https://github.com/KAsHiSHSET/Shortly---Distributed-URL-Shortener)
+### 🔗 [Distributed URL Shortener](https://github.com/KAsHiSHSET/Shortly---Distributed-URL-Shortener)
 
 A scalable URL shortening platform built using Go and microservices architecture. Features a dedicated Key Generation Service (KGS) communicating via gRPC, Redis-backed caching, rate limiting, and analytics tracking for high-performance URL management.
 
@@ -36,7 +36,7 @@ A scalable URL shortening platform built using Go and microservices architecture
 
 🔹 **Concepts Demonstrated:** Microservices, Distributed Systems, gRPC Communication, Cache-Aside Pattern, Queue-Based Key Management
 
-🔗 [**Code:**](https://github.com/KAsHiSHSET/Shortly---Distributed-URL-Shortener)
+🔗 [**Code**](https://github.com/KAsHiSHSET/Shortly---Distributed-URL-Shortener)
 
 
 ---
