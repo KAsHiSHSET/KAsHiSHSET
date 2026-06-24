@@ -41,17 +41,17 @@ A scalable URL shortening platform built using Go and microservices architecture
 
 ---
 
-### 🔗 [Agentic AI Platform](https://github.com/KAsHiSHSET/Shortly---Distributed-URL-Shortener)
+### 🔗 [Agentic AI Platform](https://github.com/KAsHiSHSET/Multi-Agent-AI-Platform/tree/main)
+A multi-use-case AI platform built using LangGraph, LangChain, and Groq LLMs that integrates conversational AI, real-time web search, and AI-powered news summarization into a unified application. The platform leverages graph-based workflow and external tool integration to deliver intelligent, context-aware responses.
 
-A scalable URL shortening platform built using Go and microservices architecture. Features a dedicated Key Generation Service (KGS) communicating via gRPC, Redis-backed caching, rate limiting, and analytics tracking for high-performance URL management.
+🔹 Tech Stack: Python, Streamlit, LangGraph, LangChain, Groq, Tavily Search API
 
-🔹 **Tech Stack:** Go, Gin, gRPC, PostgreSQL, MongoDB, Redis, Docker, JWT
+🔹 Key Features: AI chatbot, real-time web search, AI news summarization, dynamic model selection, stateful workflow orchestration, tool integration, interactive Streamlit interface
 
-🔹 **Key Features:** URL shortening, pre-generated key pool (KGS), JWT authentication, Redis caching, rate limiting, click analytics, asynchronous logging, URL redirection
+🔹 Concepts Demonstrated: Agentic AI, LangGraph Workflows, Tool Calling, State Management, LLM Orchestration, Search-Augmented AI, Modular AI Architecture
 
-🔹 **Concepts Demonstrated:** Microservices, Distributed Systems, gRPC Communication, Cache-Aside Pattern, Queue-Based Key Management
-
-🔗 [**Code**](https://github.com/KAsHiSHSET/Shortly---Distributed-URL-Shortener)
+🔗 [**Code**](https://github.com/KAsHiSHSET/Multi-Agent-AI-Platform/tree/main)
+🔗 [**Live demo**](https://agentic-chatbot-langraph.streamlit.app/)
 
 
 ---
